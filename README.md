@@ -1,0 +1,1 @@
+This is an authentication project which will take care of the user authentication, it contains the backend part of the authentication, the user can authenticate with google, twitter, facebook, github or can simply via login page.
